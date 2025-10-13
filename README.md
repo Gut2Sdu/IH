@@ -1,5 +1,5 @@
 # Single-cell RNA sequencing reveals bidirectional development of infantile hemangioma
-<img src="https://github.com/Gut2Sdu/IH/blob/main/Fig-copy_300DPI.jpg" width="800px">
+<img src="https://github.com/Gut2Sdu/IH/blob/main/Fig-copy_300DPI(1).jpg" width="800px">
 
 ## Dataset
 All datasets used in our paper can be found.<br>
