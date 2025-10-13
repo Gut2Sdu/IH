@@ -5,6 +5,5 @@
 All datasets used in our paper can be found.<br>
 Data source: <br>
 
-sample-1,2,3: [`code 1234`] <br>
-[`h5ad, RDS`](https://pan.baidu.com/s/16i1_Gd3r9u5kdz_wytsC3w)<br>
+sample-1,2,3: [`h5ad, RDS`](https://pan.baidu.com/s/16i1_Gd3r9u5kdz_wytsC3w) (code: 1234)<br>
 
