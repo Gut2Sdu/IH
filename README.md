@@ -11,5 +11,5 @@ Keloid skin tissue: [`GSM5772310`](https://www.ncbi.nlm.nih.gov/geo/query/acc.cg
 Normal fetal skin： [`GSE156972`](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156972) <br>
 
 ## Reference
-Zhi-Tong Chen, Meng-Juan Cui, Bing-Qiang Liu, Chao Liu. Single-Cell RNA Sequencing Reveals Bidirectional Development of Infantile Hemangioma. *Journal of Investigative Dermatology*, 2025. 
+Zhi-Tong Chen, Meng-Juan Cui, et al. Single-Cell RNA Sequencing Reveals Bidirectional Development of Infantile Hemangioma. *Journal of Investigative Dermatology*, 2025. 
 https://doi.org/10.1016/j.jid.2025.10.593.
